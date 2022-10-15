@@ -17,7 +17,7 @@ class Time(var nome: String, var escudo: String) : Serializable {
 
 ```
 
-## Passando Objeto por Parâmetro via putExtra.
+## Passando Objeto por Parâmetro via putExtra
 
 ```kotlin
 var intent = Intent(this, DetalheActivity::class.java)
