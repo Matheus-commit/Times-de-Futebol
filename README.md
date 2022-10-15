@@ -7,7 +7,7 @@ Adicione no arquivo build.gradle do módulo app
 implementation 'io.coil-kt:coil:1.2.0'
 ```
  
-## Transformando a classe em Serializable
+## Transformando a classe em Serializable.
 
 ```kotlin
 
